@@ -6,7 +6,7 @@
   - install the libraries it requests like flask, numpy etc
   - now just run app.py using this command on vs code terminal: python app.py
   - open the host link which appered on terminal
-- You can watch demo video with code explanation via this link  [YouTube]([https://www.youtube.com/watch?v=your-video-id](https://www.youtube.com/watch?v=YdpfjBGMX7g)).
+- You can watch demo video with code explanation via this link  [YouTube](https://www.youtube.com/watch?v=YdpfjBGMX7g).
     
 # Imported necessary libraries
 import requests
